@@ -7,9 +7,14 @@ Current state: Barely Functional. It connects to a mongodb server. That is it.
 
 Next steps: 
 Data ingestion via a React component
+
 Data storage in Mongo
+
 Visual dashboard page for vulnerability statistics
+
 Add vulnerabilities in to the data ingestion piece- SQL injection ? 
+
 Add additional vulnerable functionality. 
+
 Add a separate folder with samples of insecure code. 
 
